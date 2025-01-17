@@ -27,7 +27,9 @@ pip install pillow
 
 Run the script from the command line with the path to the image as an argument:
 
-python process_image.py <image_path>
+```bash
+python3 split-instagram-images-with-overview-image.py <image_path>
+```
 
 ## Example
 
