@@ -20,7 +20,7 @@ The script is designed for command-line usage, allowing you to easily process im
 
 Install Pillow with:
 ```bash
-pip install pillow
+pip3 install pillow
 ```
 
 ## Usage
